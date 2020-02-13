@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <h1>
+      Player's At Bat
+    </h1>
+    <div
+      class="container"
+    >
+      <h2
+        data-testid="displayBalls"
+      >
+        Balls : 0
+      </h2>
+      <h2
+        data-testid="displayStrikes"
+      >
+        Strikes : 0
+      </h2>
+      <h2
+        data-testid="displayOuts"
+      >
+        Outs : 0
+      </h2>
+      <h2
+        data-testid="displayInnings"
+      >
+        Innings : 0
+      </h2>
+    </div>
+    <div
+      class="container"
+    >
+      <button
+        class="button"
+        data-testid="baller"
+      >
+        Ball
+      </button>
+      <button
+        class="button"
+        data-testid="striker"
+      >
+        Strike
+      </button>
+      <button
+        class="button"
+        data-testid="hitter"
+      >
+        Hit
+      </button>
+      <button
+        class="button"
+        data-testid="fouler"
+      >
+        Foul
+      </button>
+      <button
+        class="button"
+        data-testid="inns"
+      >
+        Inning 
+      </button>
+      <button
+        class="button"
+        data-testid="outs"
+      >
+        Out 
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
